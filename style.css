@@ -1,0 +1,52 @@
+Body{
+    text-align: center;
+    color: grey;
+    background-color: azure;
+    margin:3.8rem;
+    font-family: 'Lexend', sans-serif;
+
+}
+#inp{  
+    margin: 1.9rem;
+    font-size: 1.3rem; 
+}
+
+#height{
+    color:white;
+    background-color: grey;
+    border-radius: 1.3rem;
+    border: .8rem;
+}
+#weight{
+    color:white;
+    background-color: grey;
+    border-radius: 1.3rem;
+    border: .8rem;
+}
+
+#height:hover {
+    background-color: rgb(240, 112, 62);
+}
+#weight:hover {
+    background-color:rgb(231, 97, 35);
+}
+
+
+#calc{
+    margin: 1.7rem;
+    background-color: grey;
+    border: .8rem;
+    border-radius: .5rem;
+}
+
+#calc:hover {
+    background-color:greenyellow;
+}
+
+#buffalo{
+    background-color: rgb(132, 211, 112);
+    
+    justify-content: center;
+    text-align: center;
+    
+}
